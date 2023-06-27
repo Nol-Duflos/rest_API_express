@@ -9,5 +9,5 @@ server.get('/', function (req, res){ //requête et réponse
 });
 
 server.listen(8080, function() {
-    console.log("ça fonctionne et c'est trop bien !!");
+    console.log("ça fonctionne et c'est trop bien !! Sur le post 8080");
 });
